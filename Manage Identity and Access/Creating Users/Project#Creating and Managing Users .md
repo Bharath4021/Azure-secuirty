@@ -14,6 +14,7 @@ Entra ID is Microsoft’s cloud-based identity and access management service tha
 - User name (e.g., sunil@mytrainings4021gmail.com)
 - Name (Full display name)
 - Password (Auto-generate or custom)
+![image alt](https://github.com/Bharath4021/Azure-secuirty/blob/0a28f4d3a1307ceb8ebd5c6e5a8bc8af883983ce/Manage%20Identity%20and%20Access/Creating%20Users/images/Screenshot%20(751).png)
 - Fill in the user properties (such as job title, department, contact info, etc.)
 - Assign roles if needed
 - Under Groups and roles, click Add group and select the appropriate group(s) to add the user to
