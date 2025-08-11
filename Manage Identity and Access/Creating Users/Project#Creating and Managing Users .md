@@ -18,5 +18,5 @@ Entra ID is Microsoft’s cloud-based identity and access management service tha
 - Assign roles if needed
 - Under Groups and roles, click Add group and select the appropriate group(s) to add the user to
 - Click Create.
-## conclusion
-- Creating and managing users in Azure Entra ID is a foundational skill for any Azure Security Engineer or IT administrator. By understanding how to create users manually, assign to groups, and manage user properties, you ensure that identity management aligns with both security best practices and business requirements. 
+## Conclusion
+Creating and managing users in Azure Entra ID is a foundational skill for any Azure Security Engineer or IT administrator. By understanding how to create users manually, assign to groups, and manage user properties, you ensure that identity management aligns with both security best practices and business requirements. 
