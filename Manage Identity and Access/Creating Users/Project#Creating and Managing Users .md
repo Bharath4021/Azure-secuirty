@@ -9,7 +9,7 @@ Entra ID is Microsoft’s cloud-based identity and access management service tha
 - Sign in to Azure Portal.
 - In the left-hand navigation pane, click Azure Active Directory.
 
-  ![image alt](https://github.com/Bharath4021/Azure-secuirty/blob/0a28f4d3a1307ceb8ebd5c6e5a8bc8af883983ce/Manage%20Identity%20and%20Access/Creating%20Users/images/Screenshot%20(1134).png)
+  ![image alt](https://github.com/Bharath4021/Azure-secuirty/blob/6a76f3ecb3fdf7db772abb5383c38352300d38d5/Manage%20Identity%20and%20Access/Creating%20Users/images/Screenshot%20(1134).png)
   
 ### **Create a New User (Manual Method)**
 - Inside Azure AD, select Add → Users → New user → Create new user.
