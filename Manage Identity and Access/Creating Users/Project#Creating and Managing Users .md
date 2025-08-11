@@ -39,7 +39,10 @@ Entra ID is Microsoft’s cloud-based identity and access management service tha
 #### Click Create :
  
  ![image alt](https://github.com/Bharath4021/Azure-secuirty/blob/0a28f4d3a1307ceb8ebd5c6e5a8bc8af883983ce/Manage%20Identity%20and%20Access/Creating%20Users/images/Screenshot%20(756).png)
-### Viewing All Users Created
+### Viewing All Users Created:
 In Microsoft Entra ID, I just go to the Users section to see all the accounts I’ve created. I can quickly search for a specific user, click on their name, and then manage their details, change roles, or update their group memberships right from there.
-## Conclusion
+
+![image alt](https://github.com/Bharath4021/Azure-secuirty/blob/6f0da5afff84c4488d46903511082f5e4929b400/Manage%20Identity%20and%20Access/Creating%20Users/images/Screenshot%20(1135).png)
+
+## Conclusion:
 Creating and managing users in Azure Entra ID is a foundational skill for any Azure Security Engineer or IT administrator. By understanding how to create users manually, assign to groups, and manage user properties, you ensure that identity management aligns with both security best practices and business requirements. 
